@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://daphne.github.io/</loc>
-         <lastmod>2022-08-03</lastmod>
+         <loc>https://daphneDevault.github.io/</loc>
+         <lastmod>2023-01-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://daphne.github.io/toucan/presentation/</loc>
-         <lastmod>2022-08-03</lastmod>
+         <loc>https://daphneDevault.github.io/Le%20grand-duc/</loc>
+         <lastmod>2023-01-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://daphneDevault.github.io/raton-laveur/</loc>
+         <lastmod>2023-01-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://daphneDevault.github.io/toucan/presentation/</loc>
+         <lastmod>2023-01-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
